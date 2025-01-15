@@ -15,9 +15,11 @@ jobs:
         uses: lvignoli/typst-action@main
         with:
           source_file: main.typ
+          options: |
+            The_CoReACTER_Manual.pdf
 
       - name: Upload PDF file
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: PDF
-          path: *.pdf
+          path: The_CoReACTER_Manual.pdf
