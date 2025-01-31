@@ -1,13 +1,13 @@
 #import "@preview/ilm:1.4.0": *
 
 #show: ilm.with(
-  title: [The CoReACTER Manual, version 0.1],
+  title: [The CoReACTER Manual, version 0.1.1],
   author: "",
   date: datetime.today(),
   abstract: [
     The Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER) is a research organization that operates within the Department of Chemical Engineering (ChemE) at Carnegie Mellon University (CMU). This Manual documents our practice of science, from how we hire researchers to join the CoReACTER and manage data to how we apologize when we make mistakes. We even have guidance for how we may edit this document!
     
-    _Land Acknowledgment_: We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Shawnee, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
+    _Land Acknowledgment_: We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
   ],
   preface: [
     #align(center + horizon)[
@@ -45,17 +45,13 @@ INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FIT
   size: 11pt
 )
 
-// TODO:
-// Chapter 12: Computing
-// Chapter 13: Managing and Sharing Data
-
 = Contributors <ch:contributors>
 
 The original draft of _The CoReACTER Manual_ was written by *Evan Walter Clark Spotte-Smith (they/them)*. Evan (referred to in this text as EWCSS) is an Assistant Professor of ChemE at CMU. They are the Founder of the CoReACTER and, as a "Principal Investigator" (or PI), they are nominally responsible for the research organization.
 
 Ideas for the original draft were improved and clarified through discussions with *Julia Isabelle McKeown (they/them)* and *Dr. Samuel M. Blau (he/him)*. Julia is a poet and folklorist who works with the Othering and Belonging Institute (OBI) at the University of California --- Berkeley (UC Berkeley). Dr. Blau is a career research scientist at Lawrence Berkeley National Laboratory (LBNL) and a longtime collaborator of EWCSS'.
 
-Parts of this manual are adapted from resources developed by other faculty at CMU. In particular, I want to acknowledge important inputs from *Prof. Rachel Kurchin (she/her)* and *Prof. John Kitchin (he/him)*.
+Parts of this manual are adapted from resources developed by other faculty at CMU. In particular, we acknowledge important inputs from *Prof. Rachel Kurchin (she/her)* and *Prof. John Kitchin (he/him)*.
 
 = How to Use This Manual <ch:howtouse>
 
