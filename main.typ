@@ -6,8 +6,6 @@
   date: datetime.today(),
   abstract: [
     The Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER) is a research organization that operates within the School of Chemistry of University College Dublin (UCD) and the Department of Chemical Engineering (ChemE) at Carnegie Mellon University (CMU). This Manual documents our practice of science, from how we hire researchers to join the CoReACTER and manage data to how we apologize when we make mistakes. We even have guidance for how we may edit this document!
-    
-    _Land Acknowledgment_: We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
   ],
   preface: [
     #align(center + horizon)[
@@ -44,6 +42,14 @@ INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FIT
   font: "Atkinson Hyperlegible",
   size: 11pt
 )
+
+#pagebreak()
+
+#align(center + horizon)[
+  _Land Acknowledgment_: We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
+]
+
+#pagebreak()
 
 = Contributors <ch:contributors>
 
