@@ -5,7 +5,7 @@
   author: "",
   date: datetime.today(),
   abstract: [
-    The Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER) is a research organization that operates within the School of Chemistry of University College Dublin (UCD) and the Department of Chemical Engineering (ChemE) at Carnegie Mellon University (CMU). This Manual documents our practice of science, from how we hire researchers to join the CoReACTER and manage data to how we apologize when we make mistakes. We even have guidance for how we may edit this document!
+    The Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER) is a research organization that operates within the School of Chemistry of University College Dublin (UCD). We are also affiliated with the Department of Chemical Engineering (ChemE) at Carnegie Mellon University (CMU). This Manual documents our practice of science, from how we hire researchers to join the CoReACTER and manage data to how we apologize when we make mistakes. We even have guidance for how we may edit this document!
   ],
   preface: [
     #align(center + horizon)[
@@ -285,7 +285,9 @@ In one of your first one-on-one meetings with EWCSS (see @sec:labmanagement:trai
 === Essential Readings <sec:personnel:onboarding:readings>
 
 Each ReACTER may work on different projects, use different tools, take different classes, and read different papers. In spite of this, it is important for ReACTERs to have a shared base of knowledge and understanding, both to aid technical conversations with a shared vocabulary and to facilitate radical communal action. Here is a (living, growing) list of texts that all ReACTERs should strive to read during their first six months in the CoReACTER. We try to limit this list to short, quick reads, so this should not be a significant burden.
-1. _Mutual Aid_ by Dean Spade: While the CoReACTER is not a mutual aid organization, we are fighting against many of the same forces that Spade describes, including systems of oppression, burnout, and a pervasive culture of perfectionism. This accessible text is an invaluable resource for developing and managing sustainable, anti-oppressive, mission-focused organizations like the CoReACTER.
++ _Mutual Aid_ by Dean Spade: While the CoReACTER is not a mutual aid organization, we are fighting against many of the same forces that Spade describes, including systems of oppression, burnout, and a pervasive culture of perfectionism. This accessible text is an invaluable resource for developing and managing sustainable, anti-oppressive, mission-focused organizations like the CoReACTER.
++ _Academic Writing as if Readers Matter_ by Leonard Cassuto. This book is full of mostly great advice for academic writers at all stages of their careers. The central advice, to be kind to one's readers, should be imprinted in one's mind as one is working on a piece of academic writing.
++ _Managing your Mental Health during your PhD_ by Zoë J. Ayres. Although conversations around mental health in the Academy are becoming more common, they're still not common enough, and most researchers (not only PhD students) are left without the individual, community, and structural tools to manage and even improve their mental well-being in the often hostile world of academia.
 
 == Expectations of ReACTERs <sec:personnel:expectations>
 
